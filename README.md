@@ -144,6 +144,8 @@ proactively counteract and mitigate the impact of DDoS attacks. By minimizing se
 disruptions and protecting sensitive data, the project aims to enhance network availability, user 
 experience, and overall cybersecurity posture.
 Mode of Demonstration
+![image](https://github.com/krishnakumarbhat/Ddos-detection/assets/79183768/f938ade6-2eb5-4a67-94f0-3df0bf038102)
+
 To demonstrate the effectiveness of the developed DDoS prevention system, a series of 
 simulated attack scenarios will be conducted. These scenarios will replicate different types of 
 DDoS attacks, including volumetric floods, SYN floods, and application-layer attacks. The 
